@@ -1,0 +1,42 @@
+com/example/sharingapp/BuildConfig.java
+ com.example.sharingapp.BuildConfig
+com/example/sharingapp/AddItemActivity.java
+ com.example.sharingapp.AddItemActivity
+com/example/sharingapp/ItemsFragment.java
+ com.example.sharingapp.ItemsFragment
+ com.example.sharingapp.ItemsFragment$1
+com/example/sharingapp/EditContactActivity.java
+ com.example.sharingapp.EditContactActivity
+com/example/sharingapp/Dimensions.java
+ com.example.sharingapp.Dimensions
+com/example/sharingapp/EditItemActivity.java
+ com.example.sharingapp.EditItemActivity
+com/example/sharingapp/AllItemsFragment.java
+ com.example.sharingapp.AllItemsFragment
+com/example/sharingapp/SectionsPagerAdapter.java
+ com.example.sharingapp.SectionsPagerAdapter
+com/example/sharingapp/MainActivity.java
+ com.example.sharingapp.MainActivity
+com/example/sharingapp/Item.java
+ com.example.sharingapp.Item
+com/example/sharingapp/AvailableItemsFragment.java
+ com.example.sharingapp.AvailableItemsFragment
+com/example/sharingapp/ContactAdapter.java
+ com.example.sharingapp.ContactAdapter
+com/example/sharingapp/BorrowedItemsFragment.java
+ com.example.sharingapp.BorrowedItemsFragment
+com/example/sharingapp/ItemList.java
+ com.example.sharingapp.ItemList
+ com.example.sharingapp.ItemList$1
+com/example/sharingapp/ItemAdapter.java
+ com.example.sharingapp.ItemAdapter
+com/example/sharingapp/ContactList.java
+ com.example.sharingapp.ContactList
+ com.example.sharingapp.ContactList$1
+com/example/sharingapp/AddContactActivity.java
+ com.example.sharingapp.AddContactActivity
+com/example/sharingapp/Contact.java
+ com.example.sharingapp.Contact
+com/example/sharingapp/ContactsActivity.java
+ com.example.sharingapp.ContactsActivity
+ com.example.sharingapp.ContactsActivity$1
